@@ -2,14 +2,14 @@
 name: Lab 3
 about: Lab 3 tasks checklist
 title: ''
-labels: Incomplete, Lab3
+labels: General CSS Topics, Incomplete, Lab3
 assignees: jupoon
 
 ---
 
-#Title/Task:
-##Date Created:
-##Date Due:
+#Add: 
+##Date Created: 4-20-2023
+##Date Due: 4-23-2023
 
 ###Task List
 [ ] - 1
