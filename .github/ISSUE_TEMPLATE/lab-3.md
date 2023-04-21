@@ -7,11 +7,11 @@ assignees: jupoon
 
 ---
 
-#Add: 
-##Date Created: 4-20-2023
-##Date Due: 4-23-2023
+## Add: 
+Date Created: 4-20-2023
+Date Due: 4-23-2023
 
-###Task List
-[ ] - 1
-[ ] - 2
-[ ] - 3
+### Task List
+- [ ] 1
+- [ ] 2
+- [ ] 3
