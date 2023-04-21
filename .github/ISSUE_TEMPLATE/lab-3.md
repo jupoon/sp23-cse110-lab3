@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Lab 3
+about: Lab 3 tasks checklist
 title: ''
-labels: ''
+labels: Incomplete, Lab3
 assignees: jupoon
 
 ---
