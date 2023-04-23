@@ -1,5 +1,6 @@
 body {
-    background-color: linear-gradient(black, navy);
+    background-color: black;
+    background-image: linear-gradient(black, navy)
     /*this is a comment*/
     color:hsl(0,0,100)
   }
