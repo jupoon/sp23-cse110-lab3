@@ -1,8 +1,8 @@
 body {
     background-color: black;
-    background-image: linear-gradient(black, navy)
+    background-image: linear-gradient(black, navy);
     /*this is a comment*/
-    color:hsl(0,0,100)
+    color: hsl(0,0,100);
   }
   
   h1 {
