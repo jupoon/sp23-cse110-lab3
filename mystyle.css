@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(0, 0, 0);
+    background-color: linear-gradient(hsl(0, 0, 0), navy);
     /*this is a comment*/
     color:rgb(255, 255, 255)
   }
