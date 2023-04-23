@@ -1,7 +1,7 @@
 body {
-    background-color: black;
+    background-color: linear-gradient(black, navy);
     /*this is a comment*/
-    color:aliceblue
+    color:hsl(0,0,100)
   }
   
   h1 {
