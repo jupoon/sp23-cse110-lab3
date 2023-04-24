@@ -1,8 +1,8 @@
 body {
-    background-color: black;
+    background-color: hsl(0,0,0);
     background-image: linear-gradient(black, navy);
     /*this is a comment*/
-    color: hsl(0,0,100);
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
@@ -10,7 +10,35 @@ body {
     color: rgb(240, 248, 255);
     text-align: center;
   }
-  
+
   @media (max-width: 1250px) {
     /* … */
+  }
+
+  .wrapper {
+    font-size: 1em;
+  }
+  
+  .px {
+    width: 200px;
+  }
+  
+  .vw {
+    width: 10vw;
+  }
+  
+  .em {
+    width: 10em;
+  }
+
+  .cm {
+    height: 10cm;
+  }
+
+  .mm {
+    min-width: 10mm;
+  }
+
+  .in {
+    font-size: 1in;
   }
