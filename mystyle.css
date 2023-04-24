@@ -3,6 +3,7 @@ body {
     background-image: linear-gradient(black, navy);
     /*this is a comment*/
     color: hsl(0,0,100);
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   h1 {
