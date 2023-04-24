@@ -10,3 +10,7 @@ body {
     color: rgb(240, 248, 255);
     text-align: center;
   }
+  
+  @media (max-width: 1250px) {
+    /* … */
+  }
